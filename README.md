@@ -1,5 +1,9 @@
 # 💫 About Me:
-💻 Software Developer | Python • Django • HTML • CSS<br>Passionate about building scalable web applications and solving real-world problems.
+👩‍💻 Python Developer | Backend & Web Development
+Turning ideas into functional, user-friendly applications.
+🛠 Tech: Python | Django | HTML | CSS | Git
+📩 Actively seeking Software Developer roles
+📄 Resume: https://drive.google.com/file/d/1bkwQ-INi9Qq7hR8FKZv1DMKZB8JyAgpy/view?usp=drive_link
 
 
 ## 🌐 Socials:
